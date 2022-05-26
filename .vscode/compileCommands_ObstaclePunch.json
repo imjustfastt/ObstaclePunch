@@ -1,27 +1,27 @@
 [
 	{
-		"file": "D:\\UnrealWorkspace\\ObstaclePunch\\Source\\ObstaclePunch\\MovingPlatform.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealWorkspace\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
-		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Source\\ObstaclePunch\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\owner\\git_repos\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\UnrealWorkspace\\ObstaclePunch\\Source\\ObstaclePunch\\MovingPlatform.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealWorkspace\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
-		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Source\\ObstaclePunch\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\owner\\git_repos\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\UnrealWorkspace\\ObstaclePunch\\Source\\ObstaclePunch\\ObstaclePunch.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealWorkspace\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
-		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Source\\ObstaclePunch\\ObstaclePunch.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\owner\\git_repos\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\UnrealWorkspace\\ObstaclePunch\\Source\\ObstaclePunch\\ObstaclePunch.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealWorkspace\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
-		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Source\\ObstaclePunch\\ObstaclePunch.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\owner\\git_repos\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\UnrealWorkspace\\ObstaclePunch\\Source\\ObstaclePunch\\ObstaclePunch.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealWorkspace\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
-		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Source\\ObstaclePunch\\ObstaclePunch.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\owner\\git_repos\\ObstaclePunch\\.vscode\\compileCommands_ObstaclePunch\\ObstaclePunch.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	}
 ]

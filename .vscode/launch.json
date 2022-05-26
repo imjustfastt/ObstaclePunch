@@ -4,149 +4,149 @@
 		{
 			"name": "Launch ObstaclePunch (Debug)",
 			"request": "launch",
-			"program": "D:\\UnrealWorkspace\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "ObstaclePunch Win64 Debug Build",
 			"args": [
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch ObstaclePunch (DebugGame)",
 			"request": "launch",
-			"program": "D:\\UnrealWorkspace\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "ObstaclePunch Win64 DebugGame Build",
 			"args": [
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch ObstaclePunch (Development)",
 			"request": "launch",
-			"program": "D:\\UnrealWorkspace\\ObstaclePunch\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "ObstaclePunch Win64 Development Build",
 			"args": [
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch ObstaclePunch (Test)",
 			"request": "launch",
-			"program": "D:\\UnrealWorkspace\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "ObstaclePunch Win64 Test Build",
 			"args": [
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch ObstaclePunch (Shipping)",
 			"request": "launch",
-			"program": "D:\\UnrealWorkspace\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "C:\\Users\\owner\\git_repos\\ObstaclePunch\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "ObstaclePunch Win64 Shipping Build",
 			"args": [
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch ObstaclePunchEditor (Debug)",
 			"request": "launch",
-			"program": "D:\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "ObstaclePunchEditor Win64 Debug Build",
 			"args": [
-				"D:\\UnrealWorkspace\\ObstaclePunch\\ObstaclePunch.uproject"
+				"C:\\Users\\owner\\git_repos\\ObstaclePunch\\ObstaclePunch.uproject"
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch ObstaclePunchEditor (DebugGame)",
 			"request": "launch",
-			"program": "D:\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "ObstaclePunchEditor Win64 DebugGame Build",
 			"args": [
-				"D:\\UnrealWorkspace\\ObstaclePunch\\ObstaclePunch.uproject"
+				"C:\\Users\\owner\\git_repos\\ObstaclePunch\\ObstaclePunch.uproject"
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch ObstaclePunchEditor (Development)",
 			"request": "launch",
-			"program": "D:\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "ObstaclePunchEditor Win64 Development Build",
 			"args": [
-				"D:\\UnrealWorkspace\\ObstaclePunch\\ObstaclePunch.uproject"
+				"C:\\Users\\owner\\git_repos\\ObstaclePunch\\ObstaclePunch.uproject"
 			],
-			"cwd": "D:\\Epic Games\\UE_5.0",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "D:\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
 			}
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "coreclr",
 			"request": "launch",
-			"program": "D:\\Epic Games\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=D:\\UnrealWorkspace\\ObstaclePunch\\ObstaclePunch.uproject",
+				"-project=C:\\Users\\owner\\git_repos\\ObstaclePunch\\ObstaclePunch.uproject",
 				"-game",
 				"-engine"
 			],
 			"console": "externalTerminal",
 			"stopAtEntry": false,
-			"cwd": "D:\\Epic Games\\UE_5.0"
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
 		}
 	]
 }
